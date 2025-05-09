@@ -1,4 +1,4 @@
-# GS RACE AI - Unity Racing AI Simulation
+# RACE AI - Unity Racing AI Simulation
 
 ---
 
@@ -43,40 +43,6 @@ This platform is ideal for research, game development, and AI-driven simulation 
 - Waypoints editor for custom track setup
 - Gizmos for pathfinding and sensor debugging
 - Dynamic UI system for per-vehicle telemetry
-
----
-
-## Project Architecture
-
-GS-RACE-AI/
-├─ Core/
-│  ├─ VehicleController.cs
-│  ├─ DifferentialSystem.cs
-│  ├─ PacejkaTireModel.cs
-│  └─ SpeedMeterUI.cs
-├─ ModulePathfinding/
-│  ├─ WaypointsSystem.cs
-│  ├─ WaypointsContainer.cs
-│  └─ WaypointsNavigator.cs
-├─ ModuleDecisionTree/
-│  ├─ DecisionMakingSystem.cs
-│  └─ DecisionComments.cs
-├─ ModuleTactical/
-│  ├─ ObstacleAvoidanceSystem.cs
-│  ├─ ObstacleDetectionSensor.cs
-│  ├─ OpponentsManager.cs
-│  └─ TacticalSystem.cs
-├─ GameManagement/
-│  ├─ GamePlayManager.cs
-│  ├─ SimpleRacePositionSystem.cs
-│  └─ UIManager.cs
-├─ UserInput/
-│  └─ UserInput.cs
-├─ EditorTools/
-│  └─ WaypointsEditor.cs
-└─ Scenes/
-├─ Scene0 - Scene8
-└─ CityScene
 
 ---
 
