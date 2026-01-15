@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/AiScenes/2. Static Obstacles.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
