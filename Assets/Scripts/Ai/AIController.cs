@@ -26,12 +26,9 @@ public partial class AIController : MonoBehaviour
 
         //Getting the Vehicle controller
         vehicleController = GetComponent<VehicleController>();
-
         positionSystem = FindObjectOfType<SimpleRacePositionSystem>();
-
         uiManager = FindObjectOfType<UIManager>();
-
-        //Reseting the waypoint to Waypoint1 on start
+        
         currentWaypointIndex = 0;
         //initialize detection sensors
         InitializeObstacleSensors();
