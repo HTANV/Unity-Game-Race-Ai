@@ -1,4 +1,4 @@
-# GS RACE AI - Unity Racing AI Simulation
+# RACE AI - Unity Racing AI Simulation
 
 ---
 
@@ -47,7 +47,7 @@ This platform is ideal for research, game development, and AI-driven simulation 
 ---
 
 ## Project Architecture
-
+```
 GS-RACE-AI/
 ├─ Core/
 │  ├─ VehicleController.cs
@@ -77,7 +77,7 @@ GS-RACE-AI/
 └─ Scenes/
 ├─ Scene0 - Scene8
 └─ CityScene
-
+```
 ---
 
 ## Technical Highlights
