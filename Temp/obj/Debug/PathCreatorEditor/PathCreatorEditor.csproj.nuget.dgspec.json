@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Temp Files\\RaceAi\\PathCreatorEditor.csproj": {}
+    "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreatorEditor.csproj": {}
   },
   "projects": {
-    "E:\\Temp Files\\RaceAi\\PathCreator.csproj": {
+    "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Temp Files\\RaceAi\\PathCreator.csproj",
+        "projectUniqueName": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj",
         "projectName": "PathCreator",
-        "projectPath": "E:\\Temp Files\\RaceAi\\PathCreator.csproj",
+        "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj",
         "packagesPath": "C:\\Users\\vligh\\.nuget\\packages\\",
-        "outputPath": "E:\\Temp Files\\RaceAi\\Temp\\obj\\Debug\\PathCreator\\",
+        "outputPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Temp\\obj\\Debug\\PathCreator\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vligh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "E:\\Temp Files\\RaceAi\\PathCreatorEditor.csproj": {
+    "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreatorEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Temp Files\\RaceAi\\PathCreatorEditor.csproj",
+        "projectUniqueName": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreatorEditor.csproj",
         "projectName": "PathCreatorEditor",
-        "projectPath": "E:\\Temp Files\\RaceAi\\PathCreatorEditor.csproj",
+        "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreatorEditor.csproj",
         "packagesPath": "C:\\Users\\vligh\\.nuget\\packages\\",
-        "outputPath": "E:\\Temp Files\\RaceAi\\Temp\\obj\\Debug\\PathCreatorEditor\\",
+        "outputPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Temp\\obj\\Debug\\PathCreatorEditor\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vligh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "E:\\Temp Files\\RaceAi\\PathCreator.csproj": {
-                "projectPath": "E:\\Temp Files\\RaceAi\\PathCreator.csproj"
+              "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj": {
+                "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj"
               }
             }
           }

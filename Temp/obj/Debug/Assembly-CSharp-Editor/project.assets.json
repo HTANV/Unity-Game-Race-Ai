@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Temp Files\\RaceAi\\Assembly-CSharp-Editor.csproj",
+      "projectUniqueName": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Assembly-CSharp-Editor.csproj",
       "projectName": "Assembly-CSharp-Editor",
-      "projectPath": "E:\\Temp Files\\RaceAi\\Assembly-CSharp-Editor.csproj",
+      "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Assembly-CSharp-Editor.csproj",
       "packagesPath": "C:\\Users\\vligh\\.nuget\\packages\\",
-      "outputPath": "E:\\Temp Files\\RaceAi\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
+      "outputPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vligh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "E:\\Temp Files\\RaceAi\\Assembly-CSharp.csproj": {
-              "projectPath": "E:\\Temp Files\\RaceAi\\Assembly-CSharp.csproj"
+            "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Assembly-CSharp.csproj": {
+              "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Assembly-CSharp.csproj"
             },
-            "E:\\Temp Files\\RaceAi\\PathCreator.csproj": {
-              "projectPath": "E:\\Temp Files\\RaceAi\\PathCreator.csproj"
+            "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj": {
+              "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj"
             },
-            "E:\\Temp Files\\RaceAi\\PathCreatorEditor.csproj": {
-              "projectPath": "E:\\Temp Files\\RaceAi\\PathCreatorEditor.csproj"
+            "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreatorEditor.csproj": {
+              "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreatorEditor.csproj"
             }
           }
         }

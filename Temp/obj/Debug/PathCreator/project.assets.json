@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Temp Files\\RaceAi\\PathCreator.csproj",
+      "projectUniqueName": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj",
       "projectName": "PathCreator",
-      "projectPath": "E:\\Temp Files\\RaceAi\\PathCreator.csproj",
+      "projectPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\PathCreator.csproj",
       "packagesPath": "C:\\Users\\vligh\\.nuget\\packages\\",
-      "outputPath": "E:\\Temp Files\\RaceAi\\Temp\\obj\\Debug\\PathCreator\\",
+      "outputPath": "F:\\githum-htanv\\bilal-h2\\Unity-Game-Race-Ai\\Temp\\obj\\Debug\\PathCreator\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vligh\\AppData\\Roaming\\NuGet\\NuGet.Config",

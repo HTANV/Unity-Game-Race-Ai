@@ -10,7 +10,9 @@ public static class DecisionComments
         {
         "I'm applying the brakes to keep a safe distance",
         "Time to slow down a bit",
-        "Making sure we stay in control on sharp turns"
+        "Making sure we stay in control on sharp turns",
+        "Braking to avoid a collision ahead",
+        "Slowing down for the upcoming curve"
         };
 
         public static string[] Overtaking = new string[]
@@ -18,14 +20,16 @@ public static class DecisionComments
         "Trying to pass the slower car",
         "Changing the lanes to overtake you",
         "Time to get rid of this slower vehicle",
-        "I was switching the lanes for an opportunity"
+        "I was switching the lanes for an opportunity",
+        "Overtaking to maintain my speed"
         };
 
         public static string[] Reverse = new string[]
         {
         "I'm putting the car in reverse to back out",
         "Let's back up a bit to get a better angle",
-        "Reversing to maneuver out of this tight spot"
+        "Reversing to maneuver out of this tight spot",
+        "Backing up to avoid an obstacle ahead",
         };
     }
 
@@ -176,7 +180,7 @@ public class OvertakingDecision : DecisionNode
 
 public partial class AIController
 {
-    
+
 
     private BrakingDecision brakingDecision;
     private OvertakingDecision overtakingDecision;
@@ -192,7 +196,7 @@ public partial class AIController
     public bool IsSpeedupDecision => isOvertakingDecision;
     public bool IsReverseDecision => isReverseDecision;
     public bool IsSteerOpposite => isSteerOppositeDecision;
-    
+
     private void UpdateDecisionSystem()
     {
         isBrakingDecision = brakingDecision.MakeDecision();
